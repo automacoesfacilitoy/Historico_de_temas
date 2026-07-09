@@ -15,20 +15,20 @@
 ### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
 - [ ] A decisão de setembro: reforma tributária para quem é pequeno
 - [ ] IA na empresa: o que automatizar e o que jamais terceirizar
-- [ ] Liderança feminina além do palco: a conta que ninguém mostra
+- [x] Liderança feminina além do palco: a conta que ninguém mostra
 - [ ] Contratar e segurar gente boa em empresa pequena
 - [ ] Empreender com propósito sem cair no discurso vazio
 
 ### Bloco 2 — Tema Livre (escolher 1 vencedor)
-- [ ] A comparação que rouba a mãe: viver a maternidade real fora do feed
+- [x] A comparação que rouba a mãe: viver a maternidade real fora do feed
 - [ ] Rotina de verdade: disciplina não é a rotina estética do Instagram
 - [ ] Fé como fundamento das decisões, não como estratégia
 - [ ] Casamento e sociedade: construir a dois quando tudo puxa para os lados
 - [ ] O que fica: o legado que se ensina antes de se herdar
 
 **🏆 Vencedores deste ciclo**
-- Live Empreendedorismo: _(a definir pelo analista)_
-- Live Livre: _(a definir pelo analista)_
+- Live Empreendedorismo: _(Liderança feminina além do palco: a conta que ninguém mostra)_
+- Live Livre: _(A comparação que rouba a mãe: viver a maternidade real fora do feed)_
 
 ---
 
