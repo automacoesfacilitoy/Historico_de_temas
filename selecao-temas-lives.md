@@ -13,7 +13,7 @@
 ## Ciclo 08/07/2026
 
 ### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
-- [ ] A decisão de setembro: reforma tributária para quem é pequeno
+- [x] A decisão de setembro: reforma tributária para quem é pequeno
 - [ ] IA na empresa: o que automatizar e o que jamais terceirizar
 - [ ] Liderança feminina além do palco: a conta que ninguém mostra
 - [ ] Contratar e segurar gente boa em empresa pequena
