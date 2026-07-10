@@ -14,21 +14,21 @@
 
 ### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
 - [ ] Juros altos, hora de crescer? A decisão de pegar crédito quando o dinheiro está caro
-- [ ] O cliente de 2026 não compra por impulso: vender pela confiança, não pelo gatilho
+- [x] O cliente de 2026 não compra por impulso: vender pela confiança, não pelo gatilho
 - [ ] Empreender acompanhada: a força das redes femininas contra a solidão da dona do negócio
 - [ ] Digitalizar a gestão sem virar refém da ferramenta: o que a planilha não resolve
 - [ ] Abrir é fácil, permanecer é construção: sobreviver ao segundo ano do negócio
 
 ### Bloco 2 — Tema Livre (escolher 1 vencedor)
 - [ ] Pedir ajuda não é fracasso: a rede de apoio da mãe que empreende
-- [ ] Quem é você quando tira os papéis? Identidade além de mãe, esposa e empresária
+- [x] Quem é você quando tira os papéis? Identidade além de mãe, esposa e empresária
 - [ ] Excelência no que ninguém vê: fazer bem feito mesmo sem plateia
 - [ ] Ensinar o valor do trabalho aos filhos numa geração do imediato
 - [ ] O direito de parar: descanso como disciplina, não como recompensa
 
 **🏆 Vencedores deste ciclo**
-- Live Empreendedorismo: _(a definir pelo analista)_
-- Live Livre: _(a definir pelo analista)_
+- Live Empreendedorismo: _( O cliente de 2026 não compra por impulso: vender pela confiança, não pelo gatilho)_
+- Live Livre: _(Quem é você quando tira os papéis? Identidade além de mãe, esposa e empresária)_
 
 ---
 
