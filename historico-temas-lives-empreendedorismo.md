@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 11/07/2026
+
+| # | Tema | Território | Gatilho de atualidade |
+|---|------|-----------|-----------------------|
+| 1 | Vender o Dia dos Pais como pequeno negócio: proximidade vale mais que preço | Construir Negócios | Dia dos Pais 2026 em 09/ago; semana da data mobiliza +100 mi de consumidores; CNC projetou ~R$ 7,84 bi em 2025 (melhor desde 2014); consumidor sensível a preço/parcelamento (Focus, Selic ~14%); Sebrae reforça planejamento antecipado e atendimento como diferencial (CNC/Scanntech/Sebrae) [incerto: números] |
+| 2 | Quando a família vira risco do negócio: separar afeto de operação | Construir Legados | Empresas familiares são ~90% dos negócios privados; poucas chegam à 2ª/3ª geração; disputas societárias bilionárias e análises do IBGC (2026) mostram conflito nascendo da mistura entre emoção, patrimônio e sucessão (IBGC; Times Brasil/CNBC) [incerto: percentuais] |
+| 3 | Reprecificar com verdade: subir preço em ano de custo alto sem enganar o cliente | Construir Princípios | Focus de início de jul/2026: Selic ~14%, inflação pressionada, consumidor endividado e sensível a preço/parcelamento/frete; margem da PME aperta (Boletim Focus/BCB) [incerto: números] |
+| 4 | Decidir com clareza quando o cenário aperta: a cabeça da dona sob pressão | Reconstruir | Selic a 14,25% classificada como 'situação dramática' para PMEs; recomendação de trabalhar com 2 cenários de orçamento; licenças por ansiedade/depressão +68% (2023–2025), mulheres entre os grupos mais pressionados (Seu Dinheiro; tendências 2026) [incerto: 68% e recorte por gênero] |
+| 5 | Negócio digital não é dinheiro fácil: construir de verdade no online | Construir Negócios | Tendências 2026: digital lidera novas aberturas femininas (e-commerce, infoprodutos, mentorias); mulheres em 48% dos MEIs ativos; terreno fértil para promessa de 'renda rápida' (Sebrae/GEM; matérias de mercado) [incerto: composição das tendências] |
+
+**Distribuição por território:** Construir Negócios (2), Construir Legados (1), Construir Princípios (1), Reconstruir (1).
+**Ângulos usados (evitar repetir):** venda por proximidade/atendimento em data sazonal (Dia dos Pais); família como risco do negócio e governança/sucessão; reprecificação ética em ano de custo alto; gestão emocional da decisão sob juros altos (2 cenários); negócio digital de verdade x fórmula de renda rápida.
+
+---
+
 ## Ciclo 09/07/2026
 
 | # | Tema | Território | Gatilho de atualidade |

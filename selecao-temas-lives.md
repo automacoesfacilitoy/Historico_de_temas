@@ -10,6 +10,28 @@
 
 ---
 
+## Ciclo 11/07/2026
+
+### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
+- [ ] Vender o Dia dos Pais como pequeno negócio: proximidade vale mais que preço
+- [ ] Quando a família vira risco do negócio: separar afeto de operação
+- [ ] Reprecificar com verdade: subir preço em ano de custo alto sem enganar o cliente
+- [ ] Decidir com clareza quando o cenário aperta: a cabeça da dona sob pressão
+- [ ] Negócio digital não é dinheiro fácil: construir de verdade no online
+
+### Bloco 2 — Tema Livre (escolher 1 vencedor)
+- [ ] Firmeza não é dureza: liderar sem endurecer o coração
+- [ ] Dizer não com paz: recusar uma boa oportunidade para proteger o essencial
+- [ ] Contentamento num mundo que sempre quer mais: prosperar sem virar refém da próxima meta
+- [ ] A amizade adulta da mulher ocupada: cultivar quem te sustenta quando falta tempo
+- [ ] Dinheiro se ensina em casa: filhos que entendem valor, limite e generosidade
+
+**🏆 Vencedores deste ciclo**
+- Live Empreendedorismo: _(a definir pelo analista)_
+- Live Livre: _(a definir pelo analista)_
+
+---
+
 ## Ciclo 09/07/2026
 
 ### Bloco 1 — Empreendedorismo (escolher 1 vencedor)

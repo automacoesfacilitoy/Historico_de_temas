@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 11/07/2026
+
+| # | Tema | Território | Elemento de proximidade |
+|---|------|-----------|-------------------------|
+| 6 | Firmeza não é dureza: liderar sem endurecer o coração | Reconstruir | Isabel abre um momento em que confundiu ser firme com ser dura — feriu alguém que amava — e o que fez para reencontrar autoridade com ternura. Pano de fundo leve: pressão sobre a mulher que lidera para 'parecer forte' |
+| 7 | Dizer não com paz: recusar uma boa oportunidade para proteger o essencial | Construir Princípios | Isabel conta uma oportunidade concreta que recusou por causa da família/saúde/valores, e a paz (não a culpa) que veio depois. Pano de fundo leve: cultura do 'sim' a tudo |
+| 8 | Contentamento num mundo que sempre quer mais: prosperar sem virar refém da próxima meta | Construir Princípios | Isabel divide um hábito de gratidão e uma vez em que bateu meta grande e sentiu vazio. Pano de fundo leve: 2/3 dos consumidores reavaliando tempo/dinheiro por uma vida mais simples (tendências 2026) [incerto: fração] |
+| 9 | A amizade adulta da mulher ocupada: cultivar quem te sustenta quando falta tempo | Reconstruir | Isabel quase deixou amizades verdadeiras morrerem na correria e o gesto simples que retomou uma relação que a sustenta. Pano de fundo leve: valor do offline e da desconexão |
+| 10 | Dinheiro se ensina em casa: filhos que entendem valor, limite e generosidade | Construir Legados | Isabel divide como fala de dinheiro com os filhos (mesada, poupar, esperar, doar) e um pedido negado que virou lição. Pano de fundo leve: geração imediatista e consumo por impulso digital |
+
+**Distribuição por território:** Reconstruir (2), Construir Princípios (2), Construir Legados (1). (≥3 em Reconstruir/Princípios: OK — 4 de 5.)
+**Ângulos usados (evitar repetir):** firmeza x dureza na liderança feminina; dizer não com paz para proteger o essencial; contentamento/gratidão x sempre querer mais; amizade adulta da mulher ocupada; educação financeira em casa (valor, limite, generosidade).
+
+---
+
 ## Ciclo 09/07/2026
 
 | # | Tema | Território | Elemento de proximidade |
