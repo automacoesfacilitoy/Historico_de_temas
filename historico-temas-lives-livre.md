@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 18/07/2026
+
+| # | Tema | Território | Elemento de proximidade |
+|---|------|-----------|-------------------------|
+| 6 | A culpa dos dois lados | Reconstruir | Isabel abre um dia concreto em que precisou escolher entre um compromisso do negócio e um momento do filho — e a culpa que veio dos dois lados. Pano de fundo leve: 68% das mães acham a maternidade hoje mais complexa; síndrome de "dar conta" (pesquisas 2026) [incerto: fração] |
+| 7 | Presença de verdade: largar o celular para estar com quem está na sala | Reconstruir | Isabel confessa estar fisicamente com a família mas mentalmente no trabalho/celular, e o combinado que passou a guardar em casa (horário sem tela). Pano de fundo leve: desconexão digital familiar |
+| 8 | Fé quando a resposta é "não" ou "espere" | Construir Princípios | Isabel divide um pedido de oração respondido com "não"/"ainda não" e como, com o tempo, se mostrou cuidado. Pano de fundo leve: busca por espiritualidade no dia a dia |
+| 9 | Casamento no automático: manter o "nós" sob a rotina | Reconstruir | Isabel conta uma fase em que ela e o marido viraram "sócios de logística" da casa e o gesto simples que reacendeu o "nós". Pano de fundo leve: sobrecarga e rotina desgastando os vínculos |
+| 10 | O tempo que não volta | Construir Legados | Isabel percebe, num marco concreto (foto antiga, filho que cresceu), como a janela com os filhos é curta e uma prioridade que reorganizou. Pano de fundo leve: valorização de tempo/experiências sobre acúmulo |
+
+**Distribuição por território:** Reconstruir (3), Construir Princípios (1), Construir Legados (1). (≥3 em Reconstruir/Princípios: OK — 4 de 5.)
+**Ângulos usados (evitar repetir):** culpa dos dois lados x falsa dicotomia carreira/família; presença real x presença física (largar o celular); fé que confia no "não"/na espera; casamento morrendo no automático (o "nós" sob a rotina); o tempo curto com os filhos que não dá replay.
+
+---
+
 ## Ciclo 11/07/2026
 
 | # | Tema | Território | Elemento de proximidade |

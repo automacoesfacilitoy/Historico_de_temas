@@ -10,6 +10,28 @@
 
 ---
 
+## Ciclo 18/07/2026
+
+### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
+- [ ] IA que atende, dona que se conecta
+- [ ] Vender procedência, não só produto
+- [ ] Disciplina de caixa no respiro da inflação
+- [ ] Quando a dona vira o gargalo do próprio negócio
+- [ ] O omnichannel possível para quem é pequeno
+
+### Bloco 2 — Tema Livre (escolher 1 vencedor)
+- [ ] A culpa dos dois lados
+- [ ] Presença de verdade: largar o celular para estar com quem está na sala
+- [ ] Fé quando a resposta é "não" ou "espere"
+- [ ] Casamento no automático: manter o "nós" sob a rotina
+- [ ] O tempo que não volta
+
+**🏆 Vencedores deste ciclo**
+- Live Empreendedorismo: _(a definir pelo analista)_
+- Live Livre: _(a definir pelo analista)_
+
+---
+
 ## Ciclo 11/07/2026
 
 ### Bloco 1 — Empreendedorismo (escolher 1 vencedor)

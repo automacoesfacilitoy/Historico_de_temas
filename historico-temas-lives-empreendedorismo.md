@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 18/07/2026
+
+| # | Tema | Território | Gatilho de atualidade |
+|---|------|-----------|-----------------------|
+| 1 | IA que atende, dona que se conecta | Construir Negócios | Meta liberou o WhatsApp Business AI em 2026 (atendimento automático 24/7); 44% dos donos de MPE já usam IA e chatbots no WhatsApp aparecem em 41% dos casos, com +35–50% de conversão em follow-up automatizado (SocialHub; Seu Dinheiro; Agência Sebrae de Notícias, 2026) [incerto: percentuais] |
+| 2 | Vender procedência, não só produto | Construir Legados | Tendências de consumo 2026: consumidor pesquisa/compara e quer saber "de onde vem, como é feito"; autenticidade, consumo consciente e transparência em alta; fidelidade "deixa de ser matemática e vira relacionamento" (Sebrae RS/SP, Tendências do Varejo 2026; Adyen) [incerto: recortes] |
+| 3 | Disciplina de caixa no respiro da inflação | Construir Princípios | IPCA de junho +0,16%, acumulado 12m caiu para 4,64%, alimentos recuaram (café -3,72%, carnes -0,64%); mas Focus projeta 2026 acima da meta e Selic segue em 14,25% (IBGE; CNN Brasil; Boletim Focus/BCB, jul/2026) [incerto: números] |
+| 4 | Quando a dona vira o gargalo do próprio negócio | Reconstruir | +87% das empreendedoras trabalham sozinhas como MEI e a tripla jornada segue como principal gargalo do setor (Sebrae/GEM; Panorama do Empreendedorismo Feminino, 2026) [incerto: percentuais] |
+| 5 | O omnichannel possível para quem é pequeno | Construir Negócios | Consolidação do omnichannel (loja física + e-commerce + apps + marketplaces + redes) como expectativa básica do consumidor de 2026 (Sebrae RS; Adyen; Central do Varejo, Tendências do Varejo 2026) |
+
+**Distribuição por território:** Construir Negócios (2), Construir Legados (1), Construir Princípios (1), Reconstruir (1).
+**Ângulos usados (evitar repetir):** IA no atendimento sem robotizar a marca (automatizar o repetitivo x jamais terceirizar o humano); procedência/transparência como ativo x guerra de preço; disciplina de caixa no alívio da inflação (reserva x gastar o respiro); dona como gargalo/medo de delegar e soltar o controle; omnichannel possível (escolher 2–3 canais x abrir dez e abandonar).
+
+---
+
 ## Ciclo 11/07/2026
 
 | # | Tema | Território | Gatilho de atualidade |
