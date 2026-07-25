@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 25/07/2026
+
+| # | Tema | Território | Gatilho de atualidade |
+|---|------|-----------|-----------------------|
+| 1 | Quando o mercado lá fora treme: o risco de depender de um só canal | Construir Negócios | Tarifa dos EUA de 25% sobre boa parte das importações brasileiras em vigor desde 22/jul/2026 (vestuário, calçados, máquinas, autopeças); choque externo expõe concentração de risco em um único cliente/canal/fornecedor/país (noticiário econômico, jul/2026) [incerto: alíquota e lista exata] |
+| 2 | Reter gente boa sem pagar mais: a cultura como salário invisível | Construir Princípios | 83,7% das PMEs pretendem contratar em 2026 e 84% dizem que reter talento de alto nível é a prioridade; pequena empresa compete por cultura e proximidade com a liderança (CartaCapital/Solides; Wellhub/Seu Dinheiro, 2026) [incerto: percentuais] |
+| 3 | Vender na plataforma dos outros sem virar refém do algoritmo | Construir Legados | Fórum E-commerce Brasil abre espaço inédito para pequenos negócios ('Mundo Empreendedor', 28–30/jul, SP); marketplaces concentram as vendas online e atuam como substitutos tributários — o vendedor depende de regras que não controla (ASN; matérias de e-commerce, jul/2026) [incerto] |
+| 4 | Menos atrito, mais venda: a simplicidade que o cliente de 2026 exige | Construir Negócios | Sebrae aponta simplicidade e experiência do consumidor como tendência 2026; consumidor mais cauteloso, sem tempo e pessimista (Sebrae, 5 Tendências para Pequenos Negócios 2026; Consumidor Moderno) [incerto] |
+| 5 | A comparação entre empreendedoras: quando o recorde vira vitrine | Reconstruir | Recorde de mulheres empreendendo — ~48% dos MEIs ativos e 54,6% de quem pretende empreender são mulheres; redes cheias de cases de sucesso feminino (GEM/Sebrae; Mundo RH; Seu Dinheiro, 2026) [incerto: percentuais] |
+
+**Distribuição por território:** Construir Negócios (2), Construir Princípios (1), Construir Legados (1), Reconstruir (1).
+**Ângulos usados (evitar repetir):** dependência de um só canal/país após choque externo (tarifaço); retenção de talentos pela cultura x salário; venda no marketplace x construir ativo próprio; simplicidade/redução de atrito na jornada de compra; comparação entre empreendedoras diante do recorde feminino.
+
+---
+
 ## Ciclo 11/07/2026
 
 | # | Tema | Território | Gatilho de atualidade |

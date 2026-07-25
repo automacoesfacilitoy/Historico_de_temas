@@ -10,6 +10,28 @@
 
 ---
 
+## Ciclo 25/07/2026
+
+### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
+- [ ] Quando o mercado lá fora treme: o risco de depender de um só canal
+- [ ] Reter gente boa sem pagar mais: a cultura como salário invisível
+- [ ] Vender na plataforma dos outros sem virar refém do algoritmo
+- [ ] Menos atrito, mais venda: a simplicidade que o cliente de 2026 exige
+- [ ] A comparação entre empreendedoras: quando o recorde vira vitrine
+
+### Bloco 2 — Tema Livre (escolher 1 vencedor)
+- [ ] Presença não se mede em app: maternidade além do painel
+- [ ] Orar e agir: fé que não vira desculpa para não decidir
+- [ ] Casamento não é reunião de gestão da casa
+- [ ] Verdade sem personagem: mostrar o processo numa era de vitrine
+- [ ] Quando os filhos veem a mãe errar e recomeçar
+
+**🏆 Vencedores deste ciclo**
+- Live Empreendedorismo: _(a definir pelo analista)_
+- Live Livre: _(a definir pelo analista)_
+
+---
+
 ## Ciclo 11/07/2026
 
 ### Bloco 1 — Empreendedorismo (escolher 1 vencedor)

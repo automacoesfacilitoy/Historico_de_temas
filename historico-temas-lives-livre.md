@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 25/07/2026
+
+| # | Tema | Território | Elemento de proximidade |
+|---|------|-----------|-------------------------|
+| 6 | Presença não se mede em app: maternidade além do painel | Reconstruir | Isabel conta uma vez em que estava mais preocupada em controlar/registrar a rotina dos filhos (planilha, app, metas) do que em estar presente — e o gesto simples de largar o controle pelo colo. Pano de fundo leve: 8 em 10 mães planejam usar apps de IA p/ rastrear sono/humor em 2026 |
+| 7 | Orar e agir: fé que não vira desculpa para não decidir | Construir Princípios | Isabel divide uma decisão concreta em que orou e esperou, mas assumiu a parte que era dela — sem terceirizar a Deus a responsabilidade de agir. Pano de fundo leve: clima de incerteza econômica que oscila entre pânico e paralisia |
+| 8 | Casamento não é reunião de gestão da casa | Reconstruir | Isabel abre um período em que o casamento virou pura logística (agenda, filhos, contas, empresa) e o ritual simples que reacendeu a relação de casal. Pano de fundo leve: sobrecarga e agenda cheia dos casais que empreendem |
+| 9 | Verdade sem personagem: mostrar o processo numa era de vitrine | Construir Princípios | Isabel conta uma vez em que teve vontade de mostrar só o resultado bonito e escolheu abrir o processo — inclusive um erro. Pano de fundo leve: cultura da vitrine e comparação nas redes |
+| 10 | Quando os filhos veem a mãe errar e recomeçar | Construir Legados | Isabel conta um momento em que os filhos a viram passar por um erro/recomeço no negócio e o que aquilo ensinou, sem discurso, sobre resiliência. Pano de fundo leve: geração acostumada a ver só o resultado pronto |
+
+**Distribuição por território:** Reconstruir (2), Construir Princípios (2), Construir Legados (1). (≥3 em Reconstruir/Princípios: OK — 4 de 5.)
+**Ângulos usados (evitar repetir):** presença x maternidade monitorada por apps; fé que age x fé como paralisia; casamento além da logística da casa; verdade/mostrar o processo x era da vitrine; filhos que veem a mãe errar e recomeçar.
+
+---
+
 ## Ciclo 11/07/2026
 
 | # | Tema | Território | Elemento de proximidade |
