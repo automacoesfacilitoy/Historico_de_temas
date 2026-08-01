@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 01/08/2026
+
+| # | Tema | Território | Gatilho de atualidade |
+|---|------|-----------|-----------------------|
+| 1 | Reforma tributária: a decisão de setembro que define seu 2027 | Construir Negócios | Janela de escolha entre Simples tradicional e regime híbrido abre em set/2026 e define o recolhimento de CBS/IBS a partir de 2027; split payment (retenção automática) chega em 2027 e pode apertar o caixa de quem vende B2B (Contábeis; reformatributaria.com; Sittax, 2026) [incerto: calendário] |
+| 2 | A IA atende, mas quem constrói confiança é você: vender no WhatsApp sem virar robô | Construir Princípios | Em 2026 a IA virou 'agente ativo' de vendas e vender direto pelo WhatsApp virou norma; ~7 em 10 empreendedoras já usam IA operacional (Zapper; Casa Magalhães; Sebrae) [incerto: fração] |
+| 3 | Cobrar o que vale: por que a empreendedora ainda fatura menos — e o que está sob seu controle | Reconstruir | +10 mi de mulheres empreendedoras no Brasil, com faturamento médio inferior ao dos homens mesmo com escolaridade igual/maior (28% com ensino superior) (Sebrae/GEM, Dia do Empreendedorismo Feminino, 2026) [incerto: números] |
+| 4 | Consumo consciente não é marketing: vender com coerência quando o cliente checa seus valores | Construir Legados | Consumidor 2026 mais atento a impacto social/ambiental e à coerência de valores das marcas, cobrando transparência de posicionamento (Sebrae, Tendências de Consumo 2026; Mercado Pago) [incerto] |
+| 5 | Inflação em baixa histórica: janela para construir, não para gastar | Construir Negócios | Previsão de inflação para 2026 entre as mais baixas desde o Plano Real, favorecendo pequenos negócios, com Selic ainda a 14,25% e Copom em 4–5/ago (Agência Sebrae de Notícias; Boletim Focus/BCB) [incerto: números] |
+
+**Distribuição por território:** Construir Negócios (2), Construir Princípios (1), Reconstruir (1), Construir Legados (1).
+**Ângulos usados (evitar repetir):** decisão de regime na reforma tributária/split payment; IA e WhatsApp no atendimento sem perder o humano; gap de faturamento feminino e precificar o próprio trabalho; consumo consciente e coerência de marca x propósito de vitrine; usar a janela de inflação baixa para construir base, não para gastar.
+
+---
+
 ## Ciclo 11/07/2026
 
 | # | Tema | Território | Gatilho de atualidade |

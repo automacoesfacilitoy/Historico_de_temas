@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 01/08/2026
+
+| # | Tema | Território | Elemento de proximidade |
+|---|------|-----------|-------------------------|
+| 6 | Fé no comum: constância espiritual quando nada está pegando fogo | Construir Princípios | Isabel abre uma fase 'morna', sem crise nem euforia, em que quase deixou a oração de lado, e o hábito pequeno e diário que a manteve firme; confessa uma temporada em que só buscou a Deus no desespero. Pano de fundo leve: espiritualidade 'de emergência' |
+| 7 | Entregar o controle: a ansiedade do futuro e o que a fé faz com o medo | Reconstruir | Isabel conta uma noite em que não dormiu remoendo uma preocupação com o negócio e a família, e o que fez de concreto para entregar e voltar a funcionar. Pano de fundo leve: geração ansiosa diante de um futuro incerto |
+| 8 | Namorar dentro do casamento ocupado: cuidar do 'nós' quando sobra só o cansaço | Reconstruir | Isabel divide um ritual pequeno que ela e o marido protegem para não virarem só 'sócios' da logística da casa, e a fase em que perceberam que só falavam de tarefas. Pano de fundo leve: casais que viram gestão e perdem a amizade |
+| 9 | Honrar de onde se veio: gratidão às origens sem se prender ao passado | Construir Legados | Isabel conta algo do próprio começo (família, uma fase mais dura/simples) que faz questão de honrar e ensinar aos filhos, sem romantizar nem esconder. Pano de fundo leve: cultura que celebra o 'self-made' e apaga as raízes |
+| 10 | Coragem de recomeçar: o dia seguinte a um erro que te envergonhou | Reconstruir | Isabel abre um erro real (decisão, contratação ou fala) que a envergonhou e como se reergueu sem se esconder nem fingir que nada aconteceu. Pano de fundo leve: cultura online que pune o erro e empurra para o disfarce |
+
+**Distribuição por território:** Reconstruir (3), Construir Princípios (1), Construir Legados (1). (≥3 em Reconstruir/Princípios: OK — 4 de 5.)
+**Ângulos usados (evitar repetir):** constância da fé nos dias comuns x fé de emergência; entregar o controle/ansiedade do futuro; namoro e amizade dentro do casamento ocupado; honrar as origens com gratidão sem se prender ao passado; coragem de recomeçar depois de um erro que envergonha.
+
+---
+
 ## Ciclo 11/07/2026
 
 | # | Tema | Território | Elemento de proximidade |

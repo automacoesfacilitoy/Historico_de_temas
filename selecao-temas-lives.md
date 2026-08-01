@@ -10,6 +10,28 @@
 
 ---
 
+## Ciclo 01/08/2026
+
+### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
+- [ ] Reforma tributária: a decisão de setembro que define seu 2027
+- [ ] A IA atende, mas quem constrói confiança é você: vender no WhatsApp sem virar robô
+- [ ] Cobrar o que vale: por que a empreendedora ainda fatura menos — e o que está sob seu controle
+- [ ] Consumo consciente não é marketing: vender com coerência quando o cliente checa seus valores
+- [ ] Inflação em baixa histórica: janela para construir, não para gastar
+
+### Bloco 2 — Tema Livre (escolher 1 vencedor)
+- [ ] Fé no comum: constância espiritual quando nada está pegando fogo
+- [ ] Entregar o controle: a ansiedade do futuro e o que a fé faz com o medo
+- [ ] Namorar dentro do casamento ocupado: cuidar do 'nós' quando sobra só o cansaço
+- [ ] Honrar de onde se veio: gratidão às origens sem se prender ao passado
+- [ ] Coragem de recomeçar: o dia seguinte a um erro que te envergonhou
+
+**🏆 Vencedores deste ciclo**
+- Live Empreendedorismo: _(a definir pelo analista)_
+- Live Livre: _(a definir pelo analista)_
+
+---
+
 ## Ciclo 11/07/2026
 
 ### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
