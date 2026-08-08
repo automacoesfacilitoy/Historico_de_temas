@@ -10,6 +10,28 @@
 
 ---
 
+## Ciclo 08/08/2026
+
+### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
+- [ ] Black Friday começa em agosto: planejar a maior venda do ano sem queimar margem
+- [ ] Reter e liderar a Geração Z na empresa pequena: propósito vale mais que o crachá
+- [ ] Inadimplência ainda alta: a régua de crédito da dona que vende parcelado
+- [ ] Formar quem falta em vez de disputar pronto: qualificar gente como legado
+- [ ] Quarto corte da Selic: o alívio é sinal verde ou tentação de correr?
+
+### Bloco 2 — Tema Livre (escolher 1 vencedor)
+- [ ] A lista que só a mãe carrega: dividir a carga mental de verdade
+- [ ] O corpo avisa antes: os sinais que Isabel ignorou até precisar parar
+- [ ] Verdade sem personagem: mostrar o processo, não só o pódio
+- [ ] Presença sem tela no meio: estar de verdade com quem está do lado
+- [ ] Prosperar em todas as áreas: quando o negócio cresce e uma parte da vida fica no vermelho
+
+**🏆 Vencedores deste ciclo**
+- Live Empreendedorismo: _(a definir pelo analista)_
+- Live Livre: _(a definir pelo analista)_
+
+---
+
 ## Ciclo 01/08/2026
 
 ### Bloco 1 — Empreendedorismo (escolher 1 vencedor)

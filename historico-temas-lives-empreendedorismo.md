@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 08/08/2026
+
+| # | Tema | Território | Gatilho de atualidade |
+|---|------|-----------|-----------------------|
+| 1 | Black Friday começa em agosto: planejar a maior venda do ano sem queimar margem | Construir Negócios | Black Friday 2026 em 27/11; recomendação de planejar com 60 dias de antecedência (agosto/setembro); e-commerces de nicho com boa experiência faturam de 3 a 5x um mês normal (Nuvemshop; NegóciosSC; Linx Commerce, 2026) [incerto: múltiplos] |
+| 2 | Reter e liderar a Geração Z na empresa pequena: propósito vale mais que o crachá | Construir Princípios | PMEs devem liderar a geração de empregos em 2026 (~8 em 10 pretendem contratar), maior barreira é falta de qualificados; Gen Z troca de emprego em <1 ano e valoriza propósito/saúde mental/liderança próxima acima de salário (Click Guarulhos; Exame; Novo Momento, 2026) [incerto: proporções] |
+| 3 | Inadimplência ainda alta: a régua de crédito da dona que vende parcelado | Construir Negócios | ~78,8 mi de endividados em agosto; inadimplência do consumidor acima do nível de um ano atrás mesmo com leve recuo (~8,94%) (CNDL/SPC; Serasa; Brazil Economy, jul–ago 2026) [incerto: números] |
+| 4 | Formar quem falta em vez de disputar pronto: qualificar gente como legado | Construir Legados | Maior barreira à contratação em 2026 é a falta de candidatos qualificados (~16% dos empregadores); PMEs seguem como principais geradoras de emprego (Sólides; matérias de mercado, 2026) [incerto: percentual] |
+| 5 | Quarto corte da Selic: o alívio é sinal verde ou tentação de correr? | Reconstruir | Copom cortou a Selic para 14% a.a. em 5/ago/2026 (4º corte consecutivo); intenção de consumo dá sinais de melhora, mas crédito PME segue caro e Comitê pede "serenidade e cautela" (CNN Brasil; BM&C News; CNC, ago/2026) [incerto: números] |
+
+**Distribuição por território:** Construir Negócios (2), Construir Princípios (1), Construir Legados (1), Reconstruir (1).
+**Ângulos usados (evitar repetir):** planejamento antecipado da Black Friday sem queimar margem; retenção e liderança da Geração Z por propósito; política/régua de crédito ao cliente diante da inadimplência; formar/qualificar gente como legado; disciplina para não confundir alívio da Selic com sinal verde de expansão.
+
+---
+
 ## Ciclo 01/08/2026
 
 | # | Tema | Território | Gatilho de atualidade |

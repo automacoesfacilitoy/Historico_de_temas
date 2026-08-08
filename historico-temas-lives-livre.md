@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 08/08/2026
+
+| # | Tema | Território | Elemento de proximidade |
+|---|------|-----------|-------------------------|
+| 6 | A lista que só a mãe carrega: dividir a carga mental de verdade | Reconstruir | Isabel abre a "lista invisível" que roda na cabeça dela o dia inteiro e o combinado concreto com o marido para dividir de verdade — não só "ajudar". Pano de fundo leve: carga mental e burnout materno em alta no Brasil (tendências 2026) [incerto] |
+| 7 | O corpo avisa antes: os sinais que Isabel ignorou até precisar parar | Reconstruir | Isabel conta os sinais físicos que empurrou com a barriga (insônia, dor de cabeça, corpo travado) até um episódio que a obrigou a parar. Pano de fundo leve: burnout com sintomas físicos (enxaqueca, insônia, taquicardia) em pauta em 2026 [incerto] |
+| 8 | Verdade sem personagem: mostrar o processo, não só o pódio | Construir Princípios | Isabel abre um "não-pódio" real — um dia/projeto que deu errado e que quase escondeu — e por que decidiu mostrar o processo. Pano de fundo leve: cansaço com o feed "de resultado" e busca por autenticidade (comportamento 2026) [incerto] |
+| 9 | Presença sem tela no meio: estar de verdade com quem está do lado | Construir Legados | Isabel conta a vez em que um filho a "pegou" no celular durante um momento dele e o combinado de presença que criaram em casa. Pano de fundo leve: "praticidade com afeto" e presença x distração digital (tendências 2026) [incerto] |
+| 10 | Prosperar em todas as áreas: quando o negócio cresce e uma parte da vida fica no vermelho | Construir Princípios | Isabel conta uma fase em que os números subiram, mas uma área da vida ficou "no vermelho" (saúde, casamento, amizade) e o reequilíbrio concreto que fez. Pano de fundo leve: redefinição de sucesso e vida mais integrada (comportamento 2026) [incerto] |
+
+**Distribuição por território:** Reconstruir (2), Construir Princípios (2), Construir Legados (1). (≥3 em Reconstruir/Princípios: OK — 4 de 5.)
+**Ângulos usados (evitar repetir):** carga mental invisível e dividir responsabilidade (não só tarefa); sinais físicos do corpo ignorados até parar; verdade sem personagem/mostrar o processo x só o pódio; presença sem tela com os filhos; prosperidade integral x sucesso que sacrifica uma área da vida.
+
+---
+
 ## Ciclo 01/08/2026
 
 | # | Tema | Território | Elemento de proximidade |
