@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 15/08/2026
+
+| # | Tema | Território | Elemento de proximidade |
+|---|------|-----------|-------------------------|
+| 6 | Menos tela, mais presença: a mãe que se desconecta para reencontrar os filhos (e a si mesma) | Reconstruir | Isabel abre uma fase em que estava mais no celular do que com quem ama — um jantar em que ninguém se olhou nos olhos — e o limite de tela que passou a proteger em casa. Pano de fundo leve: cansaço digital de 2026, menos redes = mais satisfação (InPacto 2026 'Saturados') [incerto: pesquisa] |
+| 7 | O silêncio que o barulho tirou: buscar a Deus quando tudo grita por atenção | Construir Princípios | Isabel divide um momento de oração/silêncio que protege no começo do dia e a fase em que o excesso de notificações a deixou reativa, acelerada e sem paz. Pano de fundo leve: cansados do digital reencontrando fé e pausa (CNBB 2026: 64% dizem que a vida espiritual ajuda no cotidiano) [incerto: dados] |
+| 8 | A inveja que ninguém confessa: quando a conquista da outra mexe com você | Reconstruir | Isabel confessa uma vez em que a conquista de outra mulher a incomodou por dentro — o aperto que ninguém posta — e o que fez com esse sentimento. Pano de fundo leve: redes de 2026 amplificando inadequação e comparação constante [incerto: estudos] |
+| 9 | Ensinar o filho a esperar: tédio e paciência numa geração de tela infinita | Construir Legados | Isabel divide uma regra de tela/tempo com os filhos e um momento em que segurou a própria vontade de 'resolver' o tédio deles com um celular. Pano de fundo leve: debate de 2026 sobre dopamina e saturação ('Saturados — no limite da dopamina', InPacto 2026) [incerto] |
+| 10 | Excelência sem exaustão: fazer bem feito não é fazer tudo | Construir Princípios | Isabel abre uma fase em que confundiu excelência com fazer tudo sozinha e no talo, até entender onde caprichar de verdade e onde soltar. Pano de fundo leve: burnout que atinge grande parte das mães no Brasil de 2026 (~90% com sintomas de esgotamento) [incerto: percentual] |
+
+**Distribuição por território:** Reconstruir (2), Construir Princípios (2), Construir Legados (1). (≥3 em Reconstruir/Princípios: OK — 4 de 5.)
+**Ângulos usados (evitar repetir):** menos tela/presença real na família; silêncio e oração em meio ao barulho digital; inveja/comparação entre mulheres adultas; ensinar o filho a esperar/tédio x dopamina; excelência sem exaustão x perfeccionismo que adoece.
+
+---
+
 ## Ciclo 01/08/2026
 
 | # | Tema | Território | Elemento de proximidade |

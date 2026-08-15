@@ -10,6 +10,28 @@
 
 ---
 
+## Ciclo 15/08/2026
+
+### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
+- [ ] Vender à vista sem empurrar dívida: o Pix parcelado e a ética de quem cobra
+- [ ] Audiência alugada x base própria: seu cliente é seu ou do algoritmo?
+- [ ] Faturar muito não é lucrar: a conta que o story não mostra
+- [ ] A comparação que trava a dona: parar de copiar concorrente e afirmar o próprio posicionamento
+- [ ] Reputação de verdade na era da IA: confiança como patrimônio quando todo conteúdo parece igual
+
+### Bloco 2 — Tema Livre (escolher 1 vencedor)
+- [ ] Menos tela, mais presença: a mãe que se desconecta para reencontrar os filhos (e a si mesma)
+- [ ] O silêncio que o barulho tirou: buscar a Deus quando tudo grita por atenção
+- [ ] A inveja que ninguém confessa: quando a conquista da outra mexe com você
+- [ ] Ensinar o filho a esperar: tédio e paciência numa geração de tela infinita
+- [ ] Excelência sem exaustão: fazer bem feito não é fazer tudo
+
+**🏆 Vencedores deste ciclo**
+- Live Empreendedorismo: _(a definir pelo analista)_
+- Live Livre: _(a definir pelo analista)_
+
+---
+
 ## Ciclo 01/08/2026
 
 ### Bloco 1 — Empreendedorismo (escolher 1 vencedor)

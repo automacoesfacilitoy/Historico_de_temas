@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 15/08/2026
+
+| # | Tema | Território | Gatilho de atualidade |
+|---|------|-----------|-----------------------|
+| 1 | Vender à vista sem empurrar dívida: o Pix parcelado e a ética de quem cobra | Construir Princípios | BC regulamenta o Pix parcelado em 2026 — lojista recebe à vista, cliente paga em parcelas com juros; CET em ofertas de 2026 entre ~5% e 9% a.m.; BB, Bradesco, Itaú, Santander, Nubank, Mercado Pago e PicPay já oferecem (CNN Brasil; Sebrae/RN; B3 Bora Investir; Mercado & Consumo) [incerto: faixa de CET] |
+| 2 | Audiência alugada x base própria: seu cliente é seu ou do algoritmo? | Construir Negócios | E-commerce +9,7% em jul/2026 (comparação anual), mas o lucro migra para quem controla audiência/dados/tráfego; fim do cookie de terceiros no Chrome (fev/2026) empurra para dados próprios (ICVA/Cielo; Marcas e Mercados; Meio & Mensagem; RD Station) [incerto: números] |
+| 3 | Faturar muito não é lucrar: a conta que o story não mostra | Construir Negócios | Recorde de e-commerce em 2026 esconde disputa feroz por margem; custo de mídia paga desloca o lucro da venda; varejo real cai 1,4% em jul (14º mês seguido sem alta real) (ICVA/Cielo; Marcas e Mercados, 2026) [incerto: números] |
+| 4 | A comparação que trava a dona: parar de copiar concorrente e afirmar o próprio posicionamento | Reconstruir | Saturação das redes e maturidade digital de 2026 tornam a diferenciação exigência de sobrevivência; pressão para "aparecer igual aos que dão certo" (RD Station; Meio & Mensagem; Serasa Experian, Tendências de Marketing 2026) [incerto] |
+| 5 | Reputação de verdade na era da IA: confiança como patrimônio quando todo conteúdo parece igual | Construir Legados | IA generativa entrou no fluxo de trabalho em 2026 e inundou o digital de conteúdo padronizado; com o fim do cookie e a saturação, prova social e reputação voltam a diferenciar (RD Station; Meio & Mensagem; Serasa Experian, 2026) [incerto] |
+
+**Distribuição por território:** Construir Negócios (2), Construir Princípios (1), Reconstruir (1), Construir Legados (1).
+**Ângulos usados (evitar repetir):** Pix parcelado e ética do parcelamento sem empurrar dívida; base/audiência própria x dependência de algoritmo; faturamento x lucro/margem real; comparação/cópia de concorrente x posicionamento próprio; reputação e confiança como patrimônio na era da IA.
+
+---
+
 ## Ciclo 01/08/2026
 
 | # | Tema | Território | Gatilho de atualidade |
