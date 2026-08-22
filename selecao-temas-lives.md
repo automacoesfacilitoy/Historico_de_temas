@@ -10,6 +10,28 @@
 
 ---
 
+## Ciclo 22/08/2026
+
+### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
+- [ ] Dia do Cliente: reter quem já comprou vale mais que caçar cliente novo
+- [ ] Vender sem empurrar dívida: responsabilidade num país recorde em inadimplência
+- [ ] O gargalo é você: a dona que faz tudo sozinha trava o próprio crescimento
+- [ ] Planejar o quarto trimestre agora: fôlego de caixa antes da corrida do fim de ano
+- [ ] Seu pequeno negócio emprega e sustenta famílias: o legado que não cabe no faturamento
+
+### Bloco 2 — Tema Livre (escolher 1 vencedor)
+- [ ] Carga mental: a mãe que administra a casa inteira dentro da própria cabeça
+- [ ] O valor de esperar: construir sem atalhos numa geração que quer tudo agora
+- [ ] Tradições que viram raiz: os pequenos rituais que seguram uma família
+- [ ] Cuidar do próprio corpo no meio de cuidar de todos
+- [ ] A mesma pessoa no palco e na cozinha: coerência quando ninguém está filmando
+
+**🏆 Vencedores deste ciclo**
+- Live Empreendedorismo: _(a definir pelo analista)_
+- Live Livre: _(a definir pelo analista)_
+
+---
+
 ## Ciclo 15/08/2026
 
 ### Bloco 1 — Empreendedorismo (escolher 1 vencedor)

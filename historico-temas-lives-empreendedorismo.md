@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 22/08/2026
+
+| # | Tema | Território | Gatilho de atualidade |
+|---|------|-----------|-----------------------|
+| 1 | Dia do Cliente: reter quem já comprou vale mais que caçar cliente novo | Construir Negócios | Dia do Cliente em 15/09/2026 (terça); setembro é tradicionalmente fraco no varejo e o comércio estende as ações pela 2ª quinzena ("mês do cliente"), com foco em fidelização e não só desconto (Estado de Minas/mercado; Sebrae; Cielo, 2026) [incerto: projeções] |
+| 2 | Vender sem empurrar dívida: responsabilidade num país recorde em inadimplência | Construir Princípios | Inadimplência recorde em 2026: 81,7 milhões de brasileiros negativados e mais de 9,1 milhões de empresas inadimplentes em junho (maior da série, +16,67% a/a) (Serasa Experian; CNN Brasil; Contábeis, 2026) [incerto: números] |
+| 3 | O gargalo é você: a dona que faz tudo sozinha trava o próprio crescimento | Reconstruir | Recorde de 10,4 milhões de mulheres à frente de negócios (Sebrae/PNAD-IBGE), a maioria entre 30 e 49 anos, acumulando casa e empresa; alta sobrecarga doméstica em 34,4% (RBSO, 2026) [incerto: números] |
+| 4 | Planejar o quarto trimestre agora: fôlego de caixa antes da corrida do fim de ano | Construir Negócios | Setembro fraco antecede o pico do ano (Dia do Cliente, Black Friday e Natal), com Selic a 14% após o Copom de ago/2026 e inadimplência recorde apertando o caixa de quem vende a prazo (Agência Sebrae; Serasa; Boletim Focus/BCB, 2026) [incerto: números] |
+| 5 | Seu pequeno negócio emprega e sustenta famílias: o legado que não cabe no faturamento | Construir Legados | Análises de ago/2026 sobre a economia destacam a forte geração de empregos no Brasil com participação fundamental dos pequenos negócios, mesmo com juro alto (Agência Sebrae de Notícias, 2026) [incerto: dados] |
+
+**Distribuição por território:** Construir Negócios (2), Construir Princípios (1), Reconstruir (1), Construir Legados (1).
+**Ângulos usados (evitar repetir):** fidelização/retenção no Dia do Cliente; ética de não empurrar dívida em país endividado; delegar/gargalo da dona que faz tudo sozinha; planejamento de caixa do 4º trimestre antes do pico; geração de emprego e impacto local como legado.
+
+---
+
 ## Ciclo 15/08/2026
 
 | # | Tema | Território | Gatilho de atualidade |

@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 22/08/2026
+
+| # | Tema | Território | Elemento de proximidade |
+|---|------|-----------|-------------------------|
+| 6 | Carga mental: a mãe que administra a casa inteira dentro da própria cabeça | Reconstruir | Isabel abre uma vez em que "explodiu" por um detalhe pequeno — não era o detalhe, era o peso invisível de lembrar de tudo por todos — e o combinado concreto que passou a dividir com o marido. Pano de fundo leve: alta sobrecarga doméstica em 34,4%, mulheres dedicando 21,4h/semana x 11h dos homens (IBGE) e 62,7% das mães se dizendo cansadas (RBSO; Mommys, 2026) [incerto: dados] |
+| 7 | O valor de esperar: construir sem atalhos numa geração que quer tudo agora | Construir Princípios | Isabel divide algo pelo que esperou anos — um sonho, uma conquista, uma oração que demorou — e a tentação real de forçar o tempo ou desistir no meio. Pano de fundo leve: cultura do imediatismo gerando ansiedade e impaciência (FIA; especialistas, 2026) [incerto] |
+| 8 | Tradições que viram raiz: os pequenos rituais que seguram uma família | Construir Legados | Isabel conta um ritual simples que a família insiste em manter mesmo na correria — um jantar, uma oração, uma data — e por que se recusa a deixá-lo morrer quando a agenda aperta. Pano de fundo leve: rotinas aceleradas que corroem o tempo em família |
+| 9 | Cuidar do próprio corpo no meio de cuidar de todos | Reconstruir | Isabel admite uma fase em que colocou a própria saúde por último — sono, exame, movimento — enquanto cuidava de todos, e o susto/limite concreto que a fez tratar isso como prioridade, não vaidade. Pano de fundo leve: sobrecarga e cansaço feminino |
+| 10 | A mesma pessoa no palco e na cozinha: coerência quando ninguém está filmando | Construir Princípios | Isabel mostra a distância entre a imagem que o público vê e o dia comum e bagunçado por trás, e uma incoerência que percebeu em si mesma e corrigiu para não virar personagem. Pano de fundo leve: pressão por manter uma versão editada de si nas redes |
+
+**Distribuição por território:** Reconstruir (2), Construir Princípios (2), Construir Legados (1). (≥3 em Reconstruir/Princípios: OK — 4 de 5.)
+**Ângulos usados (evitar repetir):** carga mental/peso invisível da mãe; valor de esperar/construir sem atalhos x imediatismo; tradições e rituais familiares como raiz; autocuidado do próprio corpo da mulher; coerência/verdade sem personagem no palco e em casa.
+
+---
+
 ## Ciclo 15/08/2026
 
 | # | Tema | Território | Elemento de proximidade |
