@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 29/08/2026
+
+| # | Tema | Território | Gatilho de atualidade |
+|---|------|-----------|-----------------------|
+| 1 | Setembro Amarelo: a saúde de quem carrega o negócio nas costas | Reconstruir | Setembro Amarelo 2026 chega à mesa da gestão: desde 26/05/2026 a nova NR-1 exige riscos psicossociais no gerenciamento de riscos, e levantamento da Endeavor aponta 94% dos empreendedores já enfrentaram ansiedade/burnout (Endeavor; NR-1/MTE; CNN Brasil; Correio Braziliense, 27/08/2026) [incerto: percentuais] |
+| 2 | Black Friday começa em setembro: preparar o time e a operação sem quebrar o atendimento | Construir Negócios | BF 2026 em 27/11, ~R$ 14,4 bi no e-commerce e varejo +2,1% no ano; 7 em 10 usam a data para antecipar presente de Natal; especialistas recomendam iniciar o planejamento ~60 dias antes (Central do Varejo; Diário do Comércio; CNDL/SPC Brasil, 2026) [incerto: projeções] |
+| 3 | Investir com clareza num ano de confiança baixa: construir quando o mercado só fala em medo | Construir Princípios | Projeções 2026 de ano morno: CNI estima PIB ~1,8% e confiança do empresário pessimista, com juros altos (Selic mantida em 14% no Copom de ago/2026); mercado de trabalho resiste (desocupação 5,4% no 2º tri) (CNI/FIERN; Ipea; IBRE-FGV; Copom/BCB, 2026) [incerto: números] |
+| 4 | Da informalidade à estrutura: o passo que trava a maioria das donas de negócio | Construir Negócios | Recorde de 10,4 mi de donas de negócio (dez/2025) e mulheres já são 48% dos MEIs ativos, mas boa parte segue no "conta própria" sem gestão/estrutura (Sebrae/DataSebrae; PNAD-IBGE; CNDL/Varejo S.A, 2026) [incerto: números] |
+| 5 | Construir para durar: o que da sua empresa sobrevive a você | Construir Legados | "Porta giratória" de negócios (recorde de aberturas convivendo com alta de encerramentos) num ano de PIB moderado (~1,8%) e juro alto; empresas familiares são ~90% dos negócios, mas poucas chegam à 2ª geração (Sebrae; CNI; IBGC, 2026) [incerto: percentuais] |
+
+**Distribuição por território:** Reconstruir (1), Construir Negócios (2), Construir Princípios (1), Construir Legados (1).
+**Ângulos usados (evitar repetir):** saúde mental/Setembro Amarelo do dono; preparo antecipado (time/operação) para o pico de fim de ano; investir com critério em ano de confiança baixa; da informalidade à estrutura de gestão; construir negócio que dura além da dona (legado/permanência).
+
+---
+
 ## Ciclo 22/08/2026
 
 | # | Tema | Território | Gatilho de atualidade |

@@ -10,6 +10,28 @@
 
 ---
 
+## Ciclo 29/08/2026
+
+### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
+- [ ] Setembro Amarelo: a saúde de quem carrega o negócio nas costas
+- [ ] Black Friday começa em setembro: preparar o time e a operação sem quebrar o atendimento
+- [ ] Investir com clareza num ano de confiança baixa: construir quando o mercado só fala em medo
+- [ ] Da informalidade à estrutura: o passo que trava a maioria das donas de negócio
+- [ ] Construir para durar: o que da sua empresa sobrevive a você
+
+### Bloco 2 — Tema Livre (escolher 1 vencedor)
+- [ ] O peso que ninguém vê: cuidar da saúde emocional sem vergonha
+- [ ] Continuar quando não dá vontade: disciplina nos dias cinzentos
+- [ ] A palavra que se cumpre: honrar o combinado mesmo quando custa
+- [ ] Prosperar sem se perder: quando o sucesso tenta te mudar
+- [ ] Ensinar valor num mês de vitrine: filhos e o consumo no fim de ano
+
+**🏆 Vencedores deste ciclo**
+- Live Empreendedorismo: _(a definir pelo analista)_
+- Live Livre: _(a definir pelo analista)_
+
+---
+
 ## Ciclo 22/08/2026
 
 ### Bloco 1 — Empreendedorismo (escolher 1 vencedor)

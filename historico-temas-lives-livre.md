@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 29/08/2026
+
+| # | Tema | Território | Elemento de proximidade |
+|---|------|-----------|-------------------------|
+| 6 | O peso que ninguém vê: cuidar da saúde emocional sem vergonha | Reconstruir | Isabel abre uma fase real em que esteve por um fio — sorrindo por fora, esvaziada por dentro — e o passo concreto que a fez tratar isso com seriedade (pedir ajuda, conversar) em vez de "empurrar com a barriga". Pano de fundo leve: Setembro Amarelo e o debate de 2026 sobre saúde mental materna e a desconstrução da "super mãe" [incerto: dados] |
+| 7 | Continuar quando não dá vontade: disciplina nos dias cinzentos | Reconstruir | Isabel divide um dia comum em que acordou sem ânimo nenhum e o hábito pequeno e nada estético que a fez seguir mesmo assim, longe da rotina perfeita das redes. Pano de fundo leve: cansaço e cobrança por produtividade estética |
+| 8 | A palavra que se cumpre: honrar o combinado mesmo quando custa | Construir Princípios | Isabel conta uma promessa que manteve mesmo quando saiu caro (tempo, dinheiro ou orgulho) e uma vez em que prometeu demais e aprendeu a falar menos e entregar mais. Pano de fundo leve: cultura do exagero e da promessa fácil |
+| 9 | Prosperar sem se perder: quando o sucesso tenta te mudar | Construir Princípios | Isabel abre um momento em que o crescimento começou a mexer com ela — vontade de aparecer, de provar, de comprar só para mostrar — e o que fez para se manter a mesma. Pano de fundo leve: pressão por ostentação nas redes |
+| 10 | Ensinar valor num mês de vitrine: filhos e o consumo no fim de ano | Construir Legados | Isabel conta como lida com os pedidos dos filhos quando começa a temporada de promoção e presente — um "não" que virou lição —, sem bancar a mãe que dá tudo nem a que priva por princípio. Pano de fundo leve: largada da Black Friday/Natal e o consumo por impulso |
+
+**Distribuição por território:** Reconstruir (2), Construir Princípios (2), Construir Legados (1). (≥3 em Reconstruir/Princípios: OK — 4 de 5.)
+**Ângulos usados (evitar repetir):** saúde emocional/limite sem vergonha (Setembro Amarelo); disciplina nos dias sem vontade x rotina estética; honrar a palavra/promessa que custa; prosperar sem virar outra pessoa (caráter no sucesso); ensinar valor aos filhos na temporada de consumo.
+
+---
+
 ## Ciclo 22/08/2026
 
 | # | Tema | Território | Elemento de proximidade |
