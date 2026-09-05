@@ -10,6 +10,28 @@
 
 ---
 
+## Ciclo 05/09/2026
+
+### Bloco 1 — Empreendedorismo (escolher 1 vencedor)
+- [ ] A virada dos juros: o que fazer com o crédito quando a Selic começa a cair
+- [ ] Desconto honesto: preço de verdade na Black Friday de um país que já viu 'metade do dobro'
+- [ ] Decidir com o número na mão: a IA que vira braço direito da dona, não substituta do dono
+- [ ] Chegar inteira no pico: a saúde da dona antes da melhor época do ano
+- [ ] Abrir a porta para as que vêm atrás: mentoria como parte do legado da empreendedora
+
+### Bloco 2 — Tema Livre (escolher 1 vencedor)
+- [ ] Recomeçar no meio do caminho: reorganizar a rotina quando o ano já cansou
+- [ ] Quando a resposta é esperar: fé diante da porta que não abre
+- [ ] Brigar bem: o desentendimento que aproxima em vez de afastar no casamento
+- [ ] Filhos que veem a mãe trabalhar: o que a gente ensina sem perceber
+- [ ] Aprender a receber: a mulher que só sabe cuidar dos outros
+
+**🏆 Vencedores deste ciclo**
+- Live Empreendedorismo: _(a definir pelo analista)_
+- Live Livre: _(a definir pelo analista)_
+
+---
+
 ## Ciclo 22/08/2026
 
 ### Bloco 1 — Empreendedorismo (escolher 1 vencedor)

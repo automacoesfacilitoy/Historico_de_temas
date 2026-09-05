@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 05/09/2026
+
+| # | Tema | Território | Gatilho de atualidade |
+|---|------|-----------|-----------------------|
+| 1 | A virada dos juros: o que fazer com o crédito quando a Selic começa a cair | Construir Negócios | Copom reduziu a Selic para 14,00% a.a. na reunião de 05/09/2026 (nova queda em sequência); Boletim Focus projeta ~13,75% para o fim de 2026 — crédito começa a ficar menos caro após ciclo longo de juro alto (CNN Brasil/Focus; Forbes Money; Meelion, 2026) [incerto: números e projeções] |
+| 2 | Desconto honesto: preço de verdade na Black Friday de um país que já viu 'metade do dobro' | Construir Princípios | Black Friday em 27/11/2026; e-commerce projeta ~R$ 8 bi na data; 95% dos consumidores conectados acompanham as ofertas e 31% pesquisam preço com até 3 meses de antecedência (Central do Varejo; Diário do Comércio/ACSP; NegóciosSC, 2026) [incerto: números] |
+| 3 | Decidir com o número na mão: a IA que vira braço direito da dona, não substituta do dono | Construir Negócios | Pesquisa Transformação Digital nos Pequenos Negócios (Sebrae, ago/2026): 52% dos pequenos negócios usaram IA nas 2 semanas anteriores; 2026 marca a ascensão dos 'agentes de IA' e de dashboards/relatórios automáticos ao alcance da microempresa (Sebrae; BRA1; FIA, 2026) [incerto: percentuais] |
+| 4 | Chegar inteira no pico: a saúde da dona antes da melhor época do ano | Reconstruir | Trimestre mais forte do varejo (Dia do Cliente 15/09, Black Friday 27/11 e Natal), com lojas bem preparadas faturando de 5 a 10x um mês comum; ao mesmo tempo, alta sobrecarga e sinais de esgotamento entre mulheres que acumulam casa, filhos e trabalho (Central do Varejo; Tribuna de Minas/burnout materno; Sebrae, 2026) [incerto: dados] |
+| 5 | Abrir a porta para as que vêm atrás: mentoria como parte do legado da empreendedora | Construir Legados | 54,6% de quem pretende empreender no Brasil são mulheres; elas já são 48% dos MEIs ativos (recorde), com redes e mentoria femininas apontadas como principal alavanca do setor (GEM/Sebrae; Mundo RH; Empreendedor.com, 2026) [incerto: percentuais] |
+
+**Distribuição por território:** Construir Negócios (2), Construir Princípios (1), Reconstruir (1), Construir Legados (1).
+**Ângulos usados (evitar repetir):** virada/queda da Selic e decisão de crédito na largada de um ciclo de baixa; desconto honesto e verdade de preço na Black Friday; IA para decisão com dados sem terceirizar o julgamento; saúde/energia da dona antes do pico de vendas; mentoria e formação de outras mulheres como legado.
+
+---
+
 ## Ciclo 22/08/2026
 
 | # | Tema | Território | Gatilho de atualidade |

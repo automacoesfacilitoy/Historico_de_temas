@@ -4,6 +4,21 @@ Registro dos temas candidatos gerados a cada ciclo quinzenal. Objetivo: evitar r
 
 ---
 
+## Ciclo 05/09/2026
+
+| # | Tema | Território | Elemento de proximidade |
+|---|------|-----------|-------------------------|
+| 6 | Recomeçar no meio do caminho: reorganizar a rotina quando o ano já cansou | Reconstruir | Isabel abre uma fase concreta deste 2º semestre em que percebeu que estava só 'apagando incêndio' e arrastando o cansaço acumulado do ano — e o ajuste pequeno e possível que fez na rotina, em vez de esperar o 1º de janeiro para mudar. Pano de fundo leve: cultura que só valoriza recomeço na virada do ano e o esgotamento da reta final (levantamentos de 2026 sobre sobrecarga feminina) [incerto: dados] |
+| 7 | Quando a resposta é esperar: fé diante da porta que não abre | Construir Princípios | Isabel divide uma porta concreta que quis muito e que não abriu, e como entendeu que o 'ainda não' a protegeu — sem transformar fé em fórmula de sucesso; mostra a angústia da espera antes da paz. Pano de fundo leve: imediatismo que trata qualquer espera como fracasso |
+| 8 | Brigar bem: o desentendimento que aproxima em vez de afastar no casamento | Reconstruir | Isabel conta uma discussão real com o marido (sem expor a intimidade dele) e o combinado que os dois criaram para brigar sem se ferir. Pano de fundo leve: casais sobrecarregados que viram 'sócios da logística' e transformam cada atrito em ameaça |
+| 9 | Filhos que veem a mãe trabalhar: o que a gente ensina sem perceber | Construir Legados | Isabel divide um momento em que flagrou um filho imitando/comentando o trabalho dela — algo que absorveu do exemplo diário — e o que isso a fez rever na própria postura. Pano de fundo leve: culpa materna de quem trabalha e o peso do exemplo em casa |
+| 10 | Aprender a receber: a mulher que só sabe cuidar dos outros | Reconstruir | Isabel admite a dificuldade concreta de receber (um elogio, uma ajuda, um cuidado) e a fase em que travava quando alguém queria cuidar dela; conta o gesto simples que a fez começar a aceitar. Pano de fundo leve: sobrecarga feminina e o mito da mulher que dá conta de tudo sozinha |
+
+**Distribuição por território:** Reconstruir (3), Construir Princípios (1), Construir Legados (1). (≥3 em Reconstruir/Princípios: OK — 4 de 5.)
+**Ângulos usados (evitar repetir):** recomeço no meio do ano/ajuste de rotina x recomeço mágico de virada; fé na espera diante da porta fechada; brigar bem/conflito que constrói no casamento; exemplo que os filhos absorvem do trabalho da mãe; aprender a receber x mulher que só sabe doar.
+
+---
+
 ## Ciclo 22/08/2026
 
 | # | Tema | Território | Elemento de proximidade |
